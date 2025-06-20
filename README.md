@@ -1,2 +1,2 @@
 # Tinkercad-Blinking-LED-Lights
-IT Kariera project
+Arduino project Link to the project in TinkerCad: https://www.tinkercad.com/projects/Tinkercad-Blinking-LED-Lights
